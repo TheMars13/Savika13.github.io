@@ -162,7 +162,7 @@ background: transparent !important;
     background: #fff;
 }
 .navbar-inverse .navbar-nav > li > a {
-	color: #003b2f;
+	color: #003b33;
 }
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
 color: #FFFFFF;
@@ -322,7 +322,7 @@ background: none;
     position: relative;
     padding: 0px;
     box-shadow: 0px 0px 1px rgba(0,0,0,0.4);
-    /*background: url("../images/banner-bg.jpg") no-repeat;*/
+    /*background: url("../images/1.jpg") no-repeat;*/
     background-size: 100% 100%;
     background-size: cover;
     margin-top: 60px;
@@ -342,7 +342,7 @@ background: none;
 }
 
     .banner-content h2 {
-        color: #fff;
+        color: rgb(255, 255, 255);
         font-size: 3.5em;
         margin: 2% 0 30px;
         line-height: 1.2em;
@@ -440,7 +440,7 @@ margin: 0px;
 /*parlex*/
 .bg-parlex {
 padding-top: 0px;
-background-image: url('../images/IMG_3256.jpg');
+background-image: url('../images/1.jpg');
 background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
